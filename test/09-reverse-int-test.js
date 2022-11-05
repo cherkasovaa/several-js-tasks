@@ -1,13 +1,12 @@
 const assert = require('assert');
 
 const reverse = require('../src/reverse-int');
-// it.optional = require('../extensions/it-optional');
 
 describe('reverse-int', () => {
   it('Should return 261 when 162 given', () => {
     const reversed = reverse(162);
 
-    assert.equal(reversed, 261);
+    assert.deepEqual(reversed, 261);
   });
   it('Should return 291 when -192 given', () => {
     const reversed = reverse(-192);
