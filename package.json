@@ -1,0 +1,25 @@
+{
+  "name": "several-js-tasks-from-rsschool",
+  "version": "1.0.0",
+  "description": "This repository contains js tasks form the IT cource as well as my solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cherkasovaa/several-js-tasks.git"
+  },
+  "author": "Alina Cherkasova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cherkasovaa/several-js-tasks/issues"
+  },
+  "homepage": "https://github.com/cherkasovaa/several-js-tasks#readme",
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "mocha": "^10.1.0"
+  }
+}
