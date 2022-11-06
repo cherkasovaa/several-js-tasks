@@ -14,6 +14,7 @@ The task is to implement functions on different Core JS topics. There are eight 
 8. Functions and Closures
 9. Reverse Int
 10. Towel Sort
+11. Brackets
 
 ## Prepare and test
 
